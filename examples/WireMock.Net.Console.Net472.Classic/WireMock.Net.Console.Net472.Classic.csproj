@@ -43,22 +43,22 @@
       <HintPath>..\..\packages\AnyOf.0.2.0\lib\net45\AnyOf.dll</HintPath>
     </Reference>
     <Reference Include="Fare, Version=2.1.0.0, Culture=neutral, PublicKeyToken=ea68d375bf33a7c8, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Fare.2.1.1\lib\net35\Fare.dll</HintPath>
+      <HintPath>..\..\packages\Fare.2.1.2\lib\net35\Fare.dll</HintPath>
     </Reference>
     <Reference Include="Handlebars, Version=2.0.4.0, Culture=neutral, PublicKeyToken=22225d0bf33cd661, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Handlebars.Net.2.0.4\lib\net46\Handlebars.dll</HintPath>
     </Reference>
-    <Reference Include="Handlebars.Net.Helpers, Version=2.1.1.0, Culture=neutral, PublicKeyToken=00d131fae0c250bc, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Handlebars.Net.Helpers.2.1.1-preview-01\lib\net452\Handlebars.Net.Helpers.dll</HintPath>
+    <Reference Include="Handlebars.Net.Helpers, Version=2.2.1.0, Culture=neutral, PublicKeyToken=00d131fae0c250bc, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Handlebars.Net.Helpers.2.2.1\lib\net452\Handlebars.Net.Helpers.dll</HintPath>
     </Reference>
-    <Reference Include="HandlebarsDotNet.Helpers.Core, Version=2.1.1.0, Culture=neutral, PublicKeyToken=00d131fae0c250bc, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Handlebars.Net.Helpers.Core.2.1.1-preview-01\lib\net452\HandlebarsDotNet.Helpers.Core.dll</HintPath>
+    <Reference Include="HandlebarsDotNet.Helpers.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=00d131fae0c250bc, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Handlebars.Net.Helpers.Core.2.2.1\lib\net452\HandlebarsDotNet.Helpers.Core.dll</HintPath>
     </Reference>
     <Reference Include="JmesPath.Net, Version=1.0.125.0, Culture=neutral, PublicKeyToken=b29d616b7f4faff0, processorArchitecture=MSIL">
       <HintPath>..\..\packages\JmesPath.Net.1.0.125\lib\net45\JmesPath.Net.dll</HintPath>
     </Reference>
-    <Reference Include="log4net, Version=2.0.12.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\log4net.2.0.12\lib\net45\log4net.dll</HintPath>
+    <Reference Include="log4net, Version=2.0.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\log4net.2.0.13\lib\net45\log4net.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.AspNetCore, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Microsoft.AspNetCore.2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.dll</HintPath>
@@ -213,8 +213,8 @@
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="RandomDataGenerator, Version=1.0.12.0, Culture=neutral, PublicKeyToken=ae5c571d29a3b8d9, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\RandomDataGenerator.Net.1.0.12\lib\net45\RandomDataGenerator.dll</HintPath>
+    <Reference Include="RandomDataGenerator, Version=1.0.13.0, Culture=neutral, PublicKeyToken=ae5c571d29a3b8d9, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\RandomDataGenerator.Net.1.0.13\lib\net45\RandomDataGenerator.dll</HintPath>
     </Reference>
     <Reference Include="Scriban.Signed, Version=2.1.4.0, Culture=neutral, PublicKeyToken=5675fb69b15f2433, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Scriban.Signed.2.1.4\lib\net45\Scriban.Signed.dll</HintPath>
