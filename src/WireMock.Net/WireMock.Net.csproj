@@ -114,6 +114,9 @@
         <PackageReference Include="System.Xml.XPath.XmlDocument" Version="4.3.0" />
         <PackageReference Include="System.ValueTuple" Version="4.5.0" />
         <PackageReference Include="Scriban.Signed" Version="2.1.4" />
+
+        <!-- https://github.com/advisories/GHSA-ghhp-997w-qr28 -->
+        <PackageReference Include="System.Text.Encodings.Web" Version="4.5.1" />
     </ItemGroup>
 
     <ItemGroup Condition=" '$(TargetFramework)' == 'netstandard2.0' or '$(TargetFramework)' == 'netstandard2.1' ">
